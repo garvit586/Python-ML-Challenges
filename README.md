@@ -1,4 +1,4 @@
-# Python ML Challenge - MenuWise
+# Python ML Challenge - MenuWise 
 
 This repository contains two ML projects completed as part of a Python ML Developer Challenge:
 
