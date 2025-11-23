@@ -1,0 +1,13 @@
+text,label
+Tomato,ingredient_only
+Onion,ingredient_only
+Butter 50 g,ingredient_with_qty
+Milk 200 ml,ingredient_with_qty
+Chop the onions,instruction_like
+Simmer for 10 minutes,instruction_like
+Plastic wrap,non_food
+Baking paper,non_food
+Eggs 2,ingredient_with_qty
+Olive oil,ingredient_only
+Slice the bread,instruction_like
+Paper towel,non_food
